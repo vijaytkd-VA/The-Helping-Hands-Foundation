@@ -281,15 +281,15 @@ header nav ul li a:hover{
 
 .programs .boxContainer .box:nth-child(2) .cardImage,
 .programs .boxContainer .box:nth-child(2) .cardImage:after{
-    background-image: url("../images/life.jpg");
+    background-image: url("https://thehelpinghandsfoundation.netlify.app/images/life.jpg");
 }
 .programs .boxContainer .box:nth-child(3) .cardImage,
 .programs .boxContainer .box:nth-child(3) .cardImage:after{
-    background-image: url("../images/food.jpg");
+    background-image: url("https://thehelpinghandsfoundation.netlify.app/images/food.jpg");
 }
 .programs .boxContainer .box:nth-child(4) .cardImage,
 .programs .boxContainer .box:nth-child(4) .cardImage:after{
-    background-image: url("../images/water.jpg");
+    background-image: url("https://thehelpinghandsfoundation.netlify.app/images/water.jpg");
 }
 
 .programs .boxContainer .box:hover  .cardImage:after{
