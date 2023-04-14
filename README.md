@@ -7,3 +7,5 @@ The goal of the website is to raise awareness, generate donations, and inspire p
 
 
 Host Link:-  thehelpinghandsfoundation.netlify.app
+
+Live link:- https://vijaytkd-va.github.io/The-Helping-Hands-Foundation/
